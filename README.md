@@ -26,8 +26,19 @@ The print includes a transparent base which encapsulates the LED and forms the "
 ![base](./screenshots/base.png)
 
 **Cover model:**
+![base](./screenshots/cover.png)
+
+**Prints:**
+![base](./screenshots/cover_n_base.jpg)
+![base](./screenshots/combo_real.jpg)
+
 ****
 ## Electronics
 
 ****
-## Result
+## Pictures
+
+**1st concept with LED**
+![base](./screenshots/blue.jpg)
+![base](./screenshots/green.jpg)
+![base](./screenshots/red.jpg)
