@@ -29,11 +29,20 @@ The print includes a transparent base which encapsulates the LED and forms the "
 ![base](./screenshots/cover.png)
 
 **Prints:**
-![base](./screenshots/cover_n_base.jpg)
-![base](./screenshots/combo_real.jpg)
+![base](./screenshots/base_real.jpg)
+
+While in development a hotfix had to be applied. The electronics take up too much vertical space, which means that a ring of 2mm thickness had to be added. This is visible in "Electronics".
 
 ****
 ## Electronics
+
+Electronics are straight forward: Button-cell into resistor into 4-pole switch into RGB-LED. This enables the box to be lit in RGB while only using one resistor, absolutely nothing fancy. Here you would insert an analog transistor-RC circuit or digital logic for the full potential of this LED.
+
+**Schematic**
+![schematic](./screenshots/schematic.png)
+
+**Wiring**
+![schematic](./screenshots/wiring.jpg)
 
 ****
 ## Pictures
@@ -42,3 +51,21 @@ The print includes a transparent base which encapsulates the LED and forms the "
 ![base](./screenshots/blue.jpg)
 ![base](./screenshots/green.jpg)
 ![base](./screenshots/red.jpg)
+
+**Battery holder**
+![battery](./screenshots/battery.jpg)
+
+**Finished box in red**
+![finish](./screenshots/finish_red.jpg)
+
+**Inside the box**
+![inside](./screenshots/inside.jpg)
+
+## Conclusion
+>Is this efficient?
+
+>Is this clever?
+
+>Is this peak electronics?
+
+Most likely not. However, this is a unique piece of electronics/print/whatever, which is what really counts in this case. 
